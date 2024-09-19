@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699909749861",
+    "project_id": "elderreg",
+    "storage_bucket": "elderreg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699909749861:android:46d0fb6d17e61568609a8c",
+        "android_client_info": {
+          "package_name": "com.example.registration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ZqQC0YiKriBwSNxbkF9ahmiTHOeZBQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
