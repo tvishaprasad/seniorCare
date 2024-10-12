@@ -51,6 +51,7 @@ lib/
 - **paymentPage.dart & paymentSuccess.dart**: Payment integration and confirmation flow.
 
 ## Getting Started
+Link to demo of app: https://drive.google.com/file/d/14CW3X7ju4I3nXfx4cpHAa3ZMgT0e7PIU/view?usp=share_link
 
 ### Prerequisites
 
